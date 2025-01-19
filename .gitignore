@@ -1,0 +1,6 @@
+/models
+/runs
+/tennis_analysis_env
+/training
+/yolo_inference.py
+/yolov8x.pt
